@@ -1,0 +1,14 @@
+com\eniso\tp5\exercice2\main.class
+com\eniso\tp5\exercice2\UserValidator.class
+com\eniso\tp5\exercice2\FileManager.class
+com\eniso\tp5\exercice2\UserAgeException.class
+com\eniso\tp5\BaseModel.class
+com\eniso\tp5\DataSet.class
+com\eniso\tp5\SupportVectorMachine.class
+com\eniso\tp5\MachineLearningModel.class
+com\eniso\tp5\exercice2\Mathoperation.class
+com\eniso\tp5\NeutralNetwork.class
+com\eniso\tp5\ClassificationDataset.class
+com\eniso\tp5\RandomForest.class
+com\eniso\tp5\RegressionDataset.class
+com\eniso\tp5\TP5.class
